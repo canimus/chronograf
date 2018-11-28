@@ -6,6 +6,8 @@
 1. [4814](https://github.com/influxdata/chronograf/pull/4814): Fix logs page getting stuck on scroll to top
 1. [4819](https://github.com/influxdata/chronograf/pull/4819): Fix momentary display of fallback notes while dashboard is loading
 1. [4819](https://github.com/influxdata/chronograf/pull/4819): Fix issue displaying UUIDs in table cells
+1. [4846](https://github.com/influxdata/chronograf/pull/4846): Fix missing data and type in refreshing graph
+
 
 ### UI Improvements
 1. [#4809](https://github.com/influxdata/chronograf/pull/4809): Add loading spinners while fetching protoboards
